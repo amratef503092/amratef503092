@@ -1,5 +1,11 @@
 <h3 align="center">A passionate Flutter developer from Egypt</h3>
 
+<img
+  src="https://i.ibb.co/thZMZ36/0-MXYivtrvf-MI2n-ZXU.png"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amratef503092&label=Profile%20views&color=0e75b6&style=flat" alt="amratef503092" /> </p>
 
 

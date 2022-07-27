@@ -1,7 +1,6 @@
 <h3 align="center">A passionate Flutter developer from Egypt</h3>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amratef503092" alt="amratef503092" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/amratef503092](https://github.com/amratef503092)
 

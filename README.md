@@ -1,5 +1,7 @@
 <h3 align="center">A passionate Flutter developer from Egypt</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=amratef503092&label=Profile%20views&color=0e75b6&style=flat" alt="amratef503092" /> </p>
+
 
 
 - 👨‍💻 All of my projects are available at [https://github.com/amratef503092](https://github.com/amratef503092)
